@@ -15,4 +15,7 @@ public class MenuScript : MonoBehaviour
     public void GuideBtn(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+2);
     }
+    public void BackBtn(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
+    }
 }
