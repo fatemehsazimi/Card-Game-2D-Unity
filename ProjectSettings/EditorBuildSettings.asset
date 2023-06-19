@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: c53eb370e7a445845a043f4a6aaa93da
   - enabled: 1
-    path: Assets/Scenes/sign in.unity
+    path: Assets/Scenes/Play.unity
     guid: 92a93877ac7b379469382fb4ad3d8c47
   - enabled: 1
     path: Assets/Scenes/BoardScene.unity
